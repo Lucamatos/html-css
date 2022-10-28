@@ -1,3 +1,9 @@
 @charset "UTF-8";
 
 /*Aparelho protrait*/
+/* M N m n . , ; : */
+
+body {
+    background-image: url(../imagens/cev-portrait.jpg);
+    background-position: center bottom;
+}
